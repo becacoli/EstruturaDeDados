@@ -1,4 +1,4 @@
-# Atividades---ED
+# Estrutura de dados
 
 Atividades realizadas durante o progresso da matéria Estrutura de Dados - CPTA102 ofertada pelo curso de Ciência da Computação da Universidade Federal de Alagoas - Campus Arapiraca e ministrada pelo professor Rodolfo Carneiro Cavalcante.
 
